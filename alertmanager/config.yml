@@ -5,6 +5,6 @@ receivers:
     - name: 'slack'
       slack_configs:
           - send_resolved: true
-            username: 'Ben'
-            channel: 'alerts'
-            api_url: 'https://hooks.slack.com/services/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'
+            username: ''
+            channel: ''
+            api_url: ''
